@@ -1,0 +1,19 @@
+{
+  "name": "eleventy-image-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "keywords": [],
+  "author": "Anar <anar.sol.dev@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy-img": "^3.1.0",
+    "@testing-library/dom": "^9.3.1",
+    "@testing-library/jest-dom": "^6.1.2",
+    "jest": "^29.6.4",
+    "jsdom": "^22.1.0"
+  }
+}
